@@ -1,25 +1,25 @@
 //Number Conversion//
 let score = 45
-let score-a = 45xyz
-let score-b = null
-let score-c = undefined
-let score-d = true
-let score-e = "murali"
+let scoreA = "45xyz"
+let scoreB = null
+let scoreC = undefined
+let scoreD = true
+let scoreE = "murali"
 
 console.log(typeof score);
 console.log(typeof(score));
 
-let valueInNumber-a= Number(score-a)
-let valueInNumber-b= Number(score-b)
-let valueInNumber-c= Number(score-c)
-let valueInNumber-d= Number(score-d)
-let valueInNumber-e= Number(score-e)
+let valueInNumberA= Number(scoreA)
+let valueInNumberB= Number(scoreB)
+let valueInNumberC= Number(scoreC)
+let valueInNumberD= Number(scoreD)
+let valueInNumberE= Number(scoreE)
 console.log(typeof valueInNumber)
-console.log(valueInNumber-a); ///NaN//
-console.log(valueInNumber-b); ///Null//
-console.log(valueInNumber-c); ///Undefined//
-console.log(valueInNumber-d); ///Boolean//
-console.log(valueInNumber-e); ///Boolean//
+console.log(valueInNumberA); ///NaN//
+console.log(valueInNumberB); ///Null//
+console.log(valueInNumberC); ///Undefined//
+console.log(valueInNumberD); ///Boolean//
+console.log(valueInNumberE); ///Boolean//
 
 //Boolean Conversion//
 let isLoggedIn = 1
